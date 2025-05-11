@@ -11,7 +11,7 @@ The website is developed with the interface designed using Figma and implemented
 
 # Course Introduction
 
-Course Name: Web Application Development
-Course Code: IS207
-Class Code: IS207.P11
-Academic Year: HK1 (2023 - 2024) 
+- Course Name: Web Application Development
+- Course Code: IS207
+- Class Code: IS207.P11
+- Academic Year: HK1 (2023 - 2024) 
